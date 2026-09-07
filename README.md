@@ -2,7 +2,6 @@
   <img src="header.gif" alt="Animated header" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Priyank</h1>
 
 <h3 align="center">Crafting scalable backends, clean APIs, automation pipelines, and modern web experiences.</h3>
 
@@ -126,7 +125,6 @@ Strengths: End-to-end development, integrations, scalable service design
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
